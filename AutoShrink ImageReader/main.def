@@ -1,0 +1,3 @@
+LIBRARY AutoShrinkBitmapReader
+EXPORTS
+	GetInputPluginTable @1
